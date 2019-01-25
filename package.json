@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/EMalley/Liri-Node-App/issues"
   },
-  "homepage": "https://github.com/EMalley/Liri-Node-App#readme"
+  "homepage": "https://github.com/EMalley/Liri-Node-App#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.2.0",
+    "i": "^0.3.6",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.0.7",
+    "npm": "^6.7.0"
+  }
 }
